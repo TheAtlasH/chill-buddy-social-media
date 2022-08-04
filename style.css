@@ -429,7 +429,7 @@ main .container .left .profile{
         grid-template-columns: 18vw auto 22vw;
     }
 }
-@media screen and (c 1279px) {
+@media screen and (max-width: 1279px) {
     .container{
         width: 96%;
     }
